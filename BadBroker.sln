@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadBroker", "BadBroker\BadBroker.csproj", "{6B12500A-FDEC-4AB3-B55A-152A41ADEBB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A65D3A2F-8C6F-4BF7-8FF4-D091A4834881}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadBroker.Tests", "BadBroker.Tests\BadBroker.Tests.csproj", "{DD3FC53E-D4A5-48B3-A873-6C3FE82C26C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B12500A-FDEC-4AB3-B55A-152A41ADEBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B12500A-FDEC-4AB3-B55A-152A41ADEBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B12500A-FDEC-4AB3-B55A-152A41ADEBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B12500A-FDEC-4AB3-B55A-152A41ADEBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3FC53E-D4A5-48B3-A873-6C3FE82C26C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3FC53E-D4A5-48B3-A873-6C3FE82C26C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3FC53E-D4A5-48B3-A873-6C3FE82C26C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3FC53E-D4A5-48B3-A873-6C3FE82C26C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0B8724-E6FD-4ACE-B4EA-6436F53CD605}
+	EndGlobalSection
+EndGlobal
