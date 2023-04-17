@@ -2,7 +2,7 @@
 
 This project provides a solution for the Bad Broker problem, allowing users to find the best investment tool and revenue generated within a specific date range.
 
-![screenshot](./screenshot-frontend.png)
+![screenshot](./screenshot-frontend.PNG)
 
 ## Requirements
 
@@ -51,5 +51,5 @@ The application will be available at `http://localhost:5173/`.
 
 ## Screenshot
 
-![Bad Broker Screenshot](./screenshot-frontend.png)
+![Bad Broker Screenshot](./screenshot-frontend.PNG)
 
